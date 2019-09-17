@@ -877,8 +877,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .overlay .preview {
-  position: absolute;
-  left: 45%;
+  /* position: absolute; */
+  left: 50%;
   top: 50%;
   color: #fff;
 }
