@@ -1,0 +1,6 @@
+# robots.txt for El Pais 
+User-agent: * 
+Allow: /*
+
+# Sitemaps
+Sitemap: https://dmolano26.github.io/sitemap.xml
